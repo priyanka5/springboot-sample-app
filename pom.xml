@@ -87,12 +87,6 @@
     <java.version>1.8</java.version>
   </properties>
 
-  <scm>
-    <url>https://github.com/codecentric/springboot-sample-app</url>
-    <connection>scm:git:git://github.com/codecentric/springboot-sample-app.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/codecentric/springboot-sample-app.git</developerConnection>
-    <tag>HEAD</tag>
-  </scm>
 
   <build>
     <finalName>app</finalName>
